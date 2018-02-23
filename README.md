@@ -9,3 +9,4 @@ or
 if there isn't any palindromes.
 
 bonus : beware of the case, and specific chars
+bonus 2 : detect sentences that could be read in both dirrection
