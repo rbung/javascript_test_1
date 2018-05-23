@@ -1,7 +1,6 @@
-
 'use strict'
 
-module.exports =  {
+module.exports = {
   testStrings: [
     'Hello world',
     'Testing with javascript is funny',
@@ -18,6 +17,6 @@ module.exports =  {
     'Murder for a jar of red rum.',
     'this drone is not a palyndrome hit',
     'A nut for a jar of tuna.',
-    'King, are you glad you are king?'
-  ]
-};
+    'King, are you glad you are king?',
+  ],
+}
