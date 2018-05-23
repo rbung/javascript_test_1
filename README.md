@@ -1,4 +1,5 @@
 # javascript_test_1
+
 a quick and simple plyndrome detection application
 write a programm that parses the different texts in the data.js file and outputs for each one
 
